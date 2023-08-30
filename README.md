@@ -21,6 +21,7 @@
    **Book Author**: Tony Gill, Anne J. Gilliland, Maureen Whalen, and Mary S. Woodley
    
    Edited by Murtha Baca
+   
    This book has great insights on Metadata (simply data within data), the relationships between the parent data and the child data is explicitly explained. Various 
    concepts of data sharing, data management, making different data links has been covered under the book which took my interest. There is enormous information about 
    metadata and its applications that can be extracted from the book. How the search engines generate a basic search list, additionally, it gives a deep knowledge on how 
