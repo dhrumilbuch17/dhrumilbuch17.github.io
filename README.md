@@ -5,10 +5,10 @@
 #3 "Big Data" is a large set of incoming data(structure or unstructured) which can be used for predictive analysis of output while taking care of important parameters like 
    the velocity, veracity, variety and volume of the data.
    
-#4 **Dataset**: Cancer is a serious business!
+#4 **Dataset**: Cancer is a serious business! 
 
 
-   https://www.kaggle.com/datasets/patricklford/who-does-early-diagnosis-of-cancer-benefit   
+   https://www.kaggle.com/datasets/patricklford/who-does-early-diagnosis-of-cancer-benefit 
 
    
    This dataset will help people understand the importance of the early-stage cancer detection with technology since it will reduce the chances of excess health 
@@ -19,13 +19,13 @@
    dataset it becomes very important for individuals from isolated areas to have certain knowledge about various technologies offered, the global expenditure on oncology 
    etc.
    
-#5 **Book Link**: https://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html.
+#5 **Book Link**: https://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html. 
 
 
-   **Book Author**: Tony Gill, Anne J. Gilliland, Maureen Whalen, and Mary S. Woodley.
+   **Book Author**: Tony Gill, Anne J. Gilliland, Maureen Whalen, and Mary S. Woodley. 
 
    
-   Edited by Murtha Baca.
+   Edited by Murtha Baca. 
 
    
    This book has great insights on Metadata (simply data within data), the relationships between the parent data and the child data is explicitly explained. Various 
