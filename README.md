@@ -6,7 +6,9 @@
    the velocity, veracity, variety and volume of the data.
    
 #4 Dataset: Cancer is a serious business
+
    Dataset Link: https://www.kaggle.com/datasets/patricklford/who-does-early-diagnosis-of-cancer-benefit 
+   
    This dataset will help people understand the importance of the early-stage cancer detection with technology since it will reduce the chances of excess health 
    deterioration and cure the disease with appropriate ailment at the right time. There is a great awareness made which helps people understand the extent to which the 
    rates of oncology have risen which creates great impact on the patient and the global healthcare system. During such time there is an incredible attention given to the 
@@ -16,7 +18,9 @@
    etc.
    
 #5 Book Link: https://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html. 
+
    Book Author: Tony Gill, Anne J. Gilliland, Maureen Whalen, and Mary S. Woodley, Edited by Murtha Baca. 
+   
    This book has great insights on Metadata (simply data within data), the relationships between the parent data and the child data is explicitly explained. Various 
    concepts of data sharing, data management, making different data links has been covered under the book which took my interest. There is enormous information about 
    metadata and its applications that can be extracted from the book. How the search engines generate a basic search list, additionally, it gives a deep knowledge on how 
