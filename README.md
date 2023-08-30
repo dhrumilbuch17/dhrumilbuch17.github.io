@@ -5,8 +5,7 @@
 #3 "Big Data" is a large set of incoming data(structure or unstructured) which can be used for predictive analysis of output while taking care of important parameters like 
    the velocity, veracity, variety and volume of the data.
    
-#4 **Dataset**: Cancer is a serious business! 
-
+#4 **Dataset**: Cancer is a serious business! &nbsp
 
    https://www.kaggle.com/datasets/patricklford/who-does-early-diagnosis-of-cancer-benefit 
 
